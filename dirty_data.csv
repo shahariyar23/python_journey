@@ -1,0 +1,7 @@
+Name,Age,Gender,City,Salary
+Alice ,25.0,Female,New York,50000.0
+Bob,30.0,Male,London,60000.0
+Charlie,,Male,Dhaka,
+David,45.0,Male,New York,80000.0
+Eve,22.0,,Dhaka,40000.0
+Alice ,25.0,Female,New York,50000.0

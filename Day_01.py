@@ -67,6 +67,7 @@ def day_01():
     print("Enter 2 numner for addintion: ")
     n1 = input()
     n2 = input()
+    # print(datetime.date.today())
     print(f"Name: {name} Age: {datetime.date.today().year - int(year)}  Addition Operation {n1} + {n2} = { int(n1) + int(n2) }")
 
 if __name__ == "__main__":
